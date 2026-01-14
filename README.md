@@ -1,2 +1,2 @@
 # campo-minado-java
-Jogo campo minado em Java
+Jogo campo minado em Java - estudo
